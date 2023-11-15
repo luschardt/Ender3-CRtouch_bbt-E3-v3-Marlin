@@ -11,3 +11,5 @@ Os arquivos foram configurados para:
 	-Configuração somente para CRtouch.
  - Temperatura máxima aumentada para 300C.
  - Nivelamento automático da mesa habilitado.
+
+Firmware compilado .bin pronto para atualização da maquina !
